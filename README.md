@@ -1,4 +1,4 @@
 py-kerfi-vangasvipur
 ====================
 
-py-kerfi-vangasvipur resources for macports.
+Resources to build the [py-kerfi-vangasvipur](http://sea.us.distfiles.macports.org/macports/release/ports/python/py-kerfi-vangasvipur) macport.

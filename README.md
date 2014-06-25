@@ -10,7 +10,11 @@ macport.
 
 ```
 $ cd ..
-$ tar cvfz py-kerfi-vangasvipur-<version>-1.tar.gz --exclude .git py-kerfi-vangasvipur
+$ tar cvfz py-kerfi-vangasvipur-<version>-1.tar.gz \
+    --exclude .git* \
+    --exclude LICENSE \
+    --exclude README.md \
+    py-kerfi-vangasvipur
 ```
 
 
